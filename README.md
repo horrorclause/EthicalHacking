@@ -2,6 +2,9 @@
 
 Resources for learning more about ethical hacking.
 
+<ul>
+  <li><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome-Hacking: A Massive Repo With Hundreds of Resources</a></li>
+</ul>
 <br />
 
 ## :books: Resources for Learning More ## 

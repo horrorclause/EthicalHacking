@@ -10,7 +10,8 @@ Resources for learning more about ethical hacking.
   <li><a href="https://tryhackme.com">TryHackMe - Excellent Learning Paths and CTFs</a></li>
   <li><a href="https://portswigger.net/web-security">PortSwigger Academy - Learn all about BurpSuite and Web Attacks</a></li>
   <li><a href="https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at#">PentesterLab- Exercises</a></li>
-  <li><a href="https://crackmes.one/">Crackmes - Practice Reverse Engineering</a></li> 
+  <li><a href="https://crackmes.one/">Crackmes - Practice Reverse Engineering</a></li>
+  <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Web App Security Risks</a></li>
 </ul>
 
 <br />
@@ -37,6 +38,9 @@ Resources for learning more about ethical hacking.
   <li><a href="https://www.boxentriq.com/code-breaking/cipher-identifier">Cipher Identifier</a></li>
   <li><a href="http://rumkin.com/tools/cipher/">Multiple Cipher Tools & Crackers</a></li>
   <li><a href="https://gchq.github.io/CyberChef/">CyberChef</a></li>
+  <li><a href="https://www.base64decode.org/">Base64Decode - Base64 Decoder/Encoder</a></li>
+  <li><a href="https://stylesuxx.github.io/steganography/">Online Steganography Tool</a></li>
+  <li><a href="https://md5decrypt.net/en/">MD5 Online Encrypt/Decrypt Tool</a></li>
 </ul>
 
 <br />
@@ -65,6 +69,7 @@ Resources for learning more about ethical hacking.
   <li><a href="https://phonebook.cz/">PhoneBook.cz - Search Domains, Email Addresses, URLs in Leaks</a></li>
   <li><a href="https://intelx.io/">IntelX - Search Leaks</a></li>
   <li><a href="https://map.snapchat.com/">SnapMap - Geographic Map of SnapChat Activity</a></li>
+  <li><a href="https://www.geocreepy.com/">GeoCreepy - Geolocation OSINT Tool</a></li>
   
 </ul>
 

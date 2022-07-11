@@ -78,4 +78,33 @@ Resources for learning more about ethical hacking.
 
 <br />
 
+## :pushpin:Helpful Hints ##
 
+### Create Great Looking HTML Reports of Your Nmap Scans ###
+
+Output your nmap scans as nice looking reports by outputting the scan results as xml, and then converting it to html.
+
+Run your scan, and make sure you use the "Output to XML" flag "-oX" followed by the filename:
+
+```
+nmap -vv -sS -A -T3 -oX scanResults 172.16.1.4
+```
+Next, make sure you are in the same directory as the xml file, and use "xsltproc" to make to conversion to html:
+
+```
+xsltproc scanResults -o scanResults.html
+```
+
+<br />
+
+If you open up the folder where the file is located you can see the xml and html files there:
+
+![image](https://user-images.githubusercontent.com/10188810/178209896-16027624-ea66-4781-8a3e-7f139cfafa0a.png)
+
+<br />
+
+Double-click the html file, and it will open your report in your browser:
+
+![image](https://user-images.githubusercontent.com/10188810/178210058-b135c85a-01cc-48ce-8501-7ee4e776d5f1.png)
+
+<br />

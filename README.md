@@ -11,6 +11,8 @@ Resources for learning more about ethical hacking.
 
 <ul>
   <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification Roadmap</a></li>
+  <li><a href="https://attack.mitre.org/">MITRE ATT&CK</a></li>
+  <li><a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">Lockheed Martin's Cyber Kill Chain</a></li>
   <li><a href="https://tryhackme.com">TryHackMe - Excellent Learning Paths and CTFs</a></li>
   <li><a href="https://portswigger.net/web-security">PortSwigger Academy - Learn all about BurpSuite and Web Attacks</a></li>
   <li><a href="https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at#">PentesterLab- Exercises</a></li>

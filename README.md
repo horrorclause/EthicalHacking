@@ -11,7 +11,8 @@ Resources for learning more about ethical hacking.
 
 <ul>
   <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification Roadmap</a></li>
-  <li><a href="https://nmap.org/book/toc.html">NMAP Network Scanning Book</a></li>
+  <li><a href="https://nmap.org/book/toc.html">NMAP Network Scanning Guide</a></li>
+  <li><a href="https://www.ipaddressguide.com/cidr">CIDR to IPv4 Conversion</a></li>
   <li><a href="https://attack.mitre.org/">MITRE ATT&CK</a></li>
   <li><a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">Lockheed Martin's Cyber Kill Chain</a></li>
   <li><a href="https://tryhackme.com">TryHackMe - Excellent Learning Paths and CTFs</a></li>

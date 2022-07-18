@@ -20,6 +20,7 @@ Resources for learning more about ethical hacking.
   <li><a href="https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at#">PentesterLab- Exercises</a></li>
   <li><a href="https://crackmes.one/">Crackmes - Practice Reverse Engineering</a></li>
   <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Web App Security Risks</a></li>
+  <li><a href="https://manpages.ubuntu.com/manpages/bionic/man1/crunch.1.html">Crunch - Make Custom Wordlists (w/Examples)</a></li>
 </ul>
 
 <br />

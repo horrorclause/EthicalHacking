@@ -7,7 +7,7 @@ Resources for learning more about ethical hacking.
 </ul>
 <br />
 
-## :books: Resources for Learning More ## 
+## :books: Resources for Learning More ##
 
 <ul>
   <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification Roadmap</a></li>
@@ -25,7 +25,7 @@ Resources for learning more about ethical hacking.
 
 <br />
 
-## :robot: Solve The Challenges ## 
+## :robot: Solve The Challenges ##
 
 <ul>
   <li><a href="https://overthewire.org/wargames/">OverTheWire: Wargames</a></li>
@@ -38,7 +38,7 @@ Resources for learning more about ethical hacking.
 
 <br />
 
-## :pencil2: Handy Online Tools ## 
+## :pencil2: Handy Online Tools ##
 
 <ul>
   <li><a href="https://www.hackers-arise.com/ultimate-list-of-meterpreter-command">Ultimate List of Meterpreter Commands</a></li>
@@ -95,6 +95,7 @@ Run your scan, and make sure you use the "Output to XML" flag "-oX" followed by 
 ```
 nmap -vv -sS -A -T3 -oX scanResults 172.16.1.4
 ```
+
 Next, make sure you are in the same directory as the xml file, and use "xsltproc" to make to conversion to html:
 
 ```

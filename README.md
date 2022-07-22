@@ -11,6 +11,8 @@ Resources for learning more about ethical hacking.
 
 <ul>
   <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification Roadmap</a></li>
+  <li><a href="https://nmap.org/book/toc.html">NMAP Network Scanning Guide</a></li>
+  <li><a href="https://www.ipaddressguide.com/cidr">CIDR to IPv4 Conversion</a></li>
   <li><a href="https://attack.mitre.org/">MITRE ATT&CK</a></li>
   <li><a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">Lockheed Martin's Cyber Kill Chain</a></li>
   <li><a href="https://tryhackme.com">TryHackMe - Excellent Learning Paths and CTFs</a></li>
@@ -18,6 +20,7 @@ Resources for learning more about ethical hacking.
   <li><a href="https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at#">PentesterLab- Exercises</a></li>
   <li><a href="https://crackmes.one/">Crackmes - Practice Reverse Engineering</a></li>
   <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Web App Security Risks</a></li>
+  <li><a href="https://manpages.ubuntu.com/manpages/bionic/man1/crunch.1.html">Crunch - Make Custom Wordlists (w/Examples)</a></li>
 </ul>
 
 <br />

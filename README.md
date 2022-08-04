@@ -10,6 +10,9 @@ Resources for learning more about ethical hacking.
 ## :books: Resources for Learning More ##
 
 <ul>
+  <li><a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf">NIST SP 800-53 (Security and Privacy Controls for Information Systems and Organizations)</a></li>
+  <li><a href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf">NIST SP 800-115 (Techinical Guide to Information Security Testing and Assessment)</a></li>
+  <li><a href="https://csrc.nist.gov/publications/sp">NIST Computer Security Resource Center</a></li>
   <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification Roadmap</a></li>
   <li><a href="https://nmap.org/book/toc.html">NMAP Network Scanning Guide</a></li>
   <li><a href="https://www.ipaddressguide.com/cidr">CIDR to IPv4 Conversion</a></li>

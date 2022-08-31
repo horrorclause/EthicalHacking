@@ -5,6 +5,11 @@ Resources for learning more about ethical hacking.
 <ul>
   <li><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome-Hacking: A Massive Repo With Hundreds of Resources</a></li>
 </ul>
+
+### BlackHat 2022 Slides and Presentations:
+
+<li>https://t.co/ljdzCJRHB7</li>
+
 <br />
 
 ## :books: Resources for Learning More ##

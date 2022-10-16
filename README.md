@@ -87,6 +87,7 @@ Resources for learning more about ethical hacking.
   <li><a href="https://intelx.io/">IntelX - Search Leaks</a></li>
   <li><a href="https://map.snapchat.com/">SnapMap - Geographic Map of SnapChat Activity</a></li>
   <li><a href="https://www.geocreepy.com/">GeoCreepy - Geolocation OSINT Tool</a></li>
+  <li><a href="https://buckets.grayhatwarfare.com/">GeoCreepy - Search Public Buckets - GrayHatWarfare</a></li>
   
 </ul>
 

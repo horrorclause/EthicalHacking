@@ -29,6 +29,7 @@ Resources for learning more about ethical hacking.
   <li><a href="https://crackmes.one/">Crackmes - Practice Reverse Engineering</a></li>
   <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Web App Security Risks</a></li>
   <li><a href="https://manpages.ubuntu.com/manpages/bionic/man1/crunch.1.html">Crunch - Make Custom Wordlists (w/Examples)</a></li>
+  <li><a href="https://websploit.org/">WebSploit Labs - WebSploit includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS (w/Examples)</a></li>
 </ul>
 
 <br />

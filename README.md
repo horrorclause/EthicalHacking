@@ -66,7 +66,7 @@ Resources for learning more about ethical hacking.
 ## :lying_face: Social Engineering is The Way To Go ##
 
 <ul>
-  <li><a href="https://thispersondoesnotexist.com/">This Person Does Not Exist - AI Generated Portraits</a></li>
+  <li><a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist - AI Generated Portraits</a></li>
   <li><a href="https://www.fakenamegenerator.com/">FakeNameGenerator - Create a Fake Identity</a></li>
   <li><a href="https://thisresumedoesnotexist.com/">This Resume Does Not Exist - AI Generated Resume</a></li>
   <li><a href="https://10minutemail.net/">10 Minute Mail - Email Address That Lasts 10 Minutes</a></li>

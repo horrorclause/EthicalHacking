@@ -10,6 +10,10 @@ Resources for learning more about ethical hacking.
 
 <li><a href="https://drive.google.com/drive/u/0/folders/1KHx2rKUEdb53flGUN0mFHRdSdB5PUT4B?fbclid=IwAR1C2Fk3XDPU-ky-4B57ZmKtEKgjB6Yg-9m2c6MTxyJd779yPV7MCCHCvWo&fs=e&s=c">BlackHat 2022</li>
 
+### Attack Your Own Vulnerable Machine with Metasploitable 2:
+
+<li><a href="https://docs.rapid7.com/metasploit/metasploitable-2/">Metasploitable 2</li>
+
 <br />
 
 ## :books: Resources for Learning More ##
